@@ -2,7 +2,7 @@
 city_data : city.makhachkala
 {
 	city_name: "Махачкала"
-	city_name_localized: "@@makhachkala@@"
+	city_name_localized: "@@Mahacskala@@"
 	country: russia
 
 	map_x_offsets[]: 0
